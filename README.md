@@ -1,14 +1,8 @@
 # libil2cpp
 
-Collection of source code for Unity IL2CPP
+Source code of IL2CPP v29 for Unity 2023.2.20f1.
 
-All code in [libil2cpp](libil2cpp) is dumped directly from the Unity installer (Windows)
-
-## Version Reference
-
-List of IL2CPP versions corresponding to Unity versions
-
-- [Version Reference](IL2CPP_Version.md)
+All codes are dumped directly from the Unity installer (Windows)
 
 ## How to determine Unity version?
 
